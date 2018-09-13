@@ -1,4 +1,4 @@
-List of Android UI/UX Libraries
+List of Android UI/UX Librarie
 ==================
 ![Project status](http://stillmaintained.com/wasabeef/awesome-android-ui.png)
 
